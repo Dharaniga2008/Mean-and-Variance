@@ -75,7 +75,8 @@ var=Ex2-mean**2
 sd=np.sqrt(var)
 print(f"The Mean arrival rate is {mean:.3f} ")
 print(f"The Variance of arrival from feeder is {var:.3f}")
-print(f"The Standard deviation of arrival from feeder is {sd:.3f}")```
+print(f"The Standard deviation of arrival from feeder is {sd:.3f}")
+```
 
 
 # Output :
