@@ -78,9 +78,7 @@ print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {sd:.3f}")```
 
 
-
 # Output : 
-
 <img width="678" height="272" alt="image" src="https://github.com/user-attachments/assets/baa36aa7-6573-4485-bbee-46d28b2922f6" />
 
 # Results :
